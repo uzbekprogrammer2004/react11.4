@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # react11.2
 # react11.4
 # react11.5
+# react11.5
